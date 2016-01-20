@@ -1,14 +1,14 @@
 {
-  "name": "meanjs",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
-  "version": "0.4.2",
+  "name": "ar2vlab",
+  "description": "ar2vlab - the virtual laboratory",
+  "version": "0.1",
   "meanjs-version": "0.4.2",
   "private": false,
-  "author": "https://github.com/meanjs/mean/graphs/contributors",
+  "author": "Vidmantas Drasutis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/meanjs/mean.git"
+    "url": "https://github.com/drasius2/ar2vlab.git"
   },
   "engines": {
     "node": ">=0.12.0",
